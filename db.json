@@ -16,7 +16,7 @@
       "id": "3",
       "text": "Lunch Appointment",
       "day": "May 6th at 6:30pm",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": "4",
@@ -26,9 +26,21 @@
     },
     {
       "id": "5",
-      "text": "Breakfast Appointment",
+      "text": "test Appointment",
       "day": "May 6th at 6:30pm",
+      "reminder": false
+    },
+    {
+      "id": "3b38",
+      "text": "Test Add",
+      "day": "monday 12",
       "reminder": true
+    },
+    {
+      "id": "1f9f",
+      "text": "Test Add 2",
+      "day": "tuesdat 13",
+      "reminder": false
     }
   ]
 }
